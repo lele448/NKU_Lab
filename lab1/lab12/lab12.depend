@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711212318 source:d:\c++\lab12\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+
